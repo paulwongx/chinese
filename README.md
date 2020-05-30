@@ -1,8 +1,8 @@
 # Chinese Notes
 
-Duo
-多儿 = Duo
-懒 = lan3 = lazy
+Duo\
+多儿 = Duo\
+懒 = lan3 = lazy\
 哭 = ku1 = cry
 鼓励 = gu3 li4 = encourages {gu lai}
 放弃 = fang4 qi4 = give up {fong hei}
