@@ -85,56 +85,54 @@
 ## 3.11 Invite 2
 
 ## 3.12 - Invite 2
-```
-希望 = xi1 wang4 = to hope/ to wish for
-派对 = pai4 dui4 = party {paai deui}
-打扮 = da3 ban5 = dress up
-能 = neng2 = can/ capable
-跟 = gen1 = to go with/ to follow
-公司 = gong1 si1 = company
-事情 = shi4 qing2 = matter/ thing 
-才 = cai2 = only
-—-
-她打扮得很漂亮
-你能来我的生日派对吗？
-我会去一个派对，所以我要打扮一下
-我可以跟我的朋友一起来吗？
-对不起，没有空，不能去。
-希望我们很快可以再见 = Hope we can see each other soon
-希望你能跟妻子一起来
-我要做很多事情
-我和他们在公司喝咖啡
-我正在工作 = I am working right now
-今天早上她两点才回家。
-我想告诉你一件事情 = I want to tell you something
-你昨天有什么事情？= what happened to you yesterday?
-我们很忙？下午四点才吃午饭。= we are busy, we only ate lunch at 4pm
-我昨天晚上十一点才下班。= I only got off work at 11 last night
+希望 = xi1 wang4 = to hope/ to wish for\
+派对 = pai4 dui4 = party {paai deui}\
+打扮 = da3 ban5 = dress up\
+能 = neng2 = can/ capable\
+跟 = gen1 = to go with/ to follow\
+公司 = gong1 si1 = company\
+事情 = shi4 qing2 = matter/ thing\
+才 = cai2 = only\
+—-\
+她打扮得很漂亮\
+你能来我的生日派对吗？\
+我会去一个派对，所以我要打扮一下\
+我可以跟我的朋友一起来吗？\
+对不起，没有空，不能去。\
+希望我们很快可以再见 = Hope we can see each other soon\
+希望你能跟妻子一起来\
+我要做很多事情\
+我和他们在公司喝咖啡\
+我正在工作 = I am working right now\
+今天早上她两点才回家。\
+我想告诉你一件事情 = I want to tell you something\
+你昨天有什么事情？= what happened to you yesterday?\
+我们很忙？下午四点才吃午饭。= we are busy, we only ate lunch at 4pm\
+我昨天晚上十一点才下班。= I only got off work at 11 last night\
 
 ## 3.13 - Dining 3
-完 = wan2 = to finish
-已经 = yi3 jing1 = already
-小费 = xiao3 fei4 = tip
-渴 = ke3 = thristy
-饿 = e4 = hungry
-少 = xiao = little
-巧克力 = qiao3 ke4 li4 = chocolate
-甜点 = tian2 dian3 = dessert
-味道 = wei4 dao4 = flavor
-—-
-他已经回家了
-我们请你吧！
-我巳经看完了这本书
-我很饱，我想睡觉
-我妈妈做的蛋糕很好吃
-我不饿，我很渴
-今天的甜点是巧克力
-我不知道那是什么味道
-我已经吃完了甜点
-这里的饮料很贵
-晚饭的菜很少 = there is very little food at dinner
+完 = wan2 = to finish\
+已经 = yi3 jing1 = already\
+小费 = xiao3 fei4 = tip\
+渴 = ke3 = thristy\
+饿 = e4 = hungry\
+少 = xiao = little\
+巧克力 = qiao3 ke4 li4 = chocolate\
+甜点 = tian2 dian3 = dessert\
+味道 = wei4 dao4 = flavor\
+—-\
+他已经回家了\
+我们请你吧！\
+我巳经看完了这本书\
+我很饱，我想睡觉\
+我妈妈做的蛋糕很好吃\
+我不饿，我很渴\
+今天的甜点是巧克力\
+我不知道那是什么味道\
+我已经吃完了甜点\
+这里的饮料很贵\
+晚饭的菜很少 = there is very little food at dinner\
 我姐姐做的甜点真漂亮 = The dessert my older sister made is really pretty
-```
 
 ## 3.14 - Shopping 2
 鞋子 = xie2 zi5 = shoe\
@@ -148,7 +146,7 @@
 意大利 = yi4 da4 li4 = Italy\
 裤子 = ku4 zi5 = jeans\
 质量 = zhi4 liang4 = quality\
-—-
+—-\
 你会留在这里吗？\
 你有几双鞋子\
 你想买哪双鞋子\
@@ -156,7 +154,7 @@
 你应该买这件衬衫\
 这双比那双少\
 她觉得那家商店的衣服质量不好\
-你还想买什么\
+你还想买什么
 
 ## 3.15 - Body Parts
 眼睛 = yan3 jing5 = eye
