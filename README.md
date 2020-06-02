@@ -108,7 +108,7 @@
 我想告诉你一件事情 = I want to tell you something\
 你昨天有什么事情？= what happened to you yesterday?\
 我们很忙？下午四点才吃午饭。= we are busy, we only ate lunch at 4pm\
-我昨天晚上十一点才下班。= I only got off work at 11 last night\
+我昨天晚上十一点才下班。= I only got off work at 11 last night
 
 ## 3.13 - Dining 3
 完 = wan2 = to finish\
@@ -471,7 +471,7 @@
 包子很热，我等一会儿吃\
 天气很冷，我们想吃火锅\
 你喜欢吃中国拉面还是日本拉面。\
-我想试试这里的豆浆\
+我想试试这里的豆浆
 
 ## 4.10 - Time 4
 是... 的 = it was... that = \
@@ -517,7 +517,7 @@
 我喜欢淮时的人\
 现在越来越冷，冬天来了\
 哪个季节去台湾最好 （台湾 describes the main subject 季节 so it comes right after)\
-秋天不冷也不热。\
+秋天不冷也不热。
 
 ## 4.11 - Location 5
 附近 = fu4 jin4 = nearby/ viscinity\
@@ -541,285 +541,285 @@
 这个地方有太多人。\
 站在你们中间的人是谁\
 什么在桌子下面\
-今天下午我会在图书馆，准备考试。\
+今天下午我会在图书馆，准备考试。
 
 ## 4.12 - Shopping 4
-元 = yuan = 1 yuan (formal)
-块 = kuai4 = 1 yuan (informal)
-角 = jiao3 = 0.1 yuan (formal)
-毛 = mao2 = 0.1 yuan (informal)
-分 = fen1 = 0.01 yuan
-打折 = da3 zhe2 = discount {da jit}
-花了 = hua1 le5 = to have spent
-皮 = pi2 = leather
-换 = huan4 = change {wun}
-旧 = jiu4 = old {gau}
-经过 = jing1 guo4 = to pass {ging guo}
-退货 = tui4 （”tway”) huo4 = return/ withdraw a product {teui fo3}
-退款 = tui4 kuan3 = refund
-袋子 = dai4 zi5 = bag {doi ji}
-咖啡色 = brown
-—-
-事情 = shi4 qing2 = task/ matter/ thing/ affair/ 
-奂 = huan4 = excellent {woon}
-化 = hua4 = to change into {faa}
-示 = shi4 = to show/ reveal {si}
-就 = jiu4 {jau}
-—-
-这件衬衫打折吗？
-你花了多少钱？
-我花了太多时间做这个事情 = I spent too much time doing this task
-这双皮鞋打折
-他每年都换女朋友
-他不喜欢红的想换白的 = he doesn’t like the red one, he wants to swap it with the white one
-这双鞋子太小了，我可以退货吗？
-对不起，我们不能退款
-他今天不会经过这里。
-我的皮鞋很旧了，想买一双新的。
-你七天里可以来退货和退款。= you can come return this and get a refund within 7 days
-给我十五分钟，我想换衣服。
-我喜欢那双咖啡色的皮鞋子。
-你的电话太旧了
+元 = yuan = 1 yuan (formal)\
+块 = kuai4 = 1 yuan (informal)\
+角 = jiao3 = 0.1 yuan (formal)\
+毛 = mao2 = 0.1 yuan (informal)\
+分 = fen1 = 0.01 yuan\
+打折 = da3 zhe2 = discount {da jit}\
+花了 = hua1 le5 = to have spent\
+皮 = pi2 = leather\
+换 = huan4 = change {wun}\
+旧 = jiu4 = old {gau}\
+经过 = jing1 guo4 = to pass {ging guo}\
+退货 = tui4 （”tway”) huo4 = return/ withdraw a product {teui fo3}\
+退款 = tui4 kuan3 = refund\
+袋子 = dai4 zi5 = bag {doi ji}\
+咖啡色 = brown\
+—-\
+事情 = shi4 qing2 = task/ matter/ thing/ affair/ \
+奂 = huan4 = excellent {woon}\
+化 = hua4 = to change into {faa}\
+示 = shi4 = to show/ reveal {si}\
+就 = jiu4 {jau}\
+—-\
+这件衬衫打折吗？\
+你花了多少钱？\
+我花了太多时间做这个事情 = I spent too much time doing this task\
+这双皮鞋打折\
+他每年都换女朋友\
+他不喜欢红的想换白的 = he doesn’t like the red one, he wants to swap it with the white one\
+这双鞋子太小了，我可以退货吗？\
+对不起，我们不能退款\
+他今天不会经过这里。\
+我的皮鞋很旧了，想买一双新的。\
+你七天里可以来退货和退款。= you can come return this and get a refund within 7 days\
+给我十五分钟，我想换衣服。\
+我喜欢那双咖啡色的皮鞋子。\
+你的电话太旧了\
 我们经过了哪里。
 
 ## 4.13 - Routine 2
-以前 = yi3 qian2 = before/ previous
-以后 = yi3 hou4 = after
-马上 = ma3 shang4 = immediately
-刷牙 = shua1 ya2 = brush (your) teeth
-一边 = yi4 bian1 = at the same time
-洗澡 = xie3 zao3 = shower/ bath
-还没有 = hai2 mei2 you3 = still haven’t
-习惯 = xi2 guan4 = habit {jaap guan}
-总是 = zong3 shi4 = always {joong si}
-梦 = meng4 = to dream {mong}
-故事 = gu4 shi5 = story {guu si}
-讲 = jiang3 = to speak/ talk {gong}
-—-
-还 = hai2 = still
-或是 = huo4 shi4 = or
-想 = miss (her)
-饮料 = yin3 liao4 = drink/beverage {yum liu}
-—-
-我们吃饭以前要洗手
-吃饭以后，一定要马上刷牙
-我喜欢一边洗澡，一边唱歌
-他们还没有起床
-我想我的哥哥，想马上见他 = I miss my older brother, I want to see him at once
-很晚睡觉不是一个好习惯
-我的刷牙习惯是每天三次 = My habit is to brush my teeth three times a day *
-我不习惯这里的天气。
-我还没有洗澡
-一边看电视一边吃饭不是好习惯。
-为什么你总是看手机？ = Why are you always looking at your phone
-他总是在早上九点给我打电话。*
-别做梦了 = Stop dreaming
-这个故事不是真的。
-她在讲什么？
-孩子睡觉以前，他们的爸爸会讲故事。
-这是他以前的女朋友
-明天我们下班以后一起看电影吧。
-我习惯一边跑步，一边听音乐。= I have a habit of running and listening to music at the same time
-昨天晚上我做梦了。
-我可以讲一个故事给你听吗？
-这个辣极了，快一点儿给我水。
+以前 = yi3 qian2 = before/ previous\
+以后 = yi3 hou4 = after\
+马上 = ma3 shang4 = immediately\
+刷牙 = shua1 ya2 = brush (your) teeth\
+一边 = yi4 bian1 = at the same time\
+洗澡 = xie3 zao3 = shower/ bath\
+还没有 = hai2 mei2 you3 = still haven’t\
+习惯 = xi2 guan4 = habit {jaap guan}\
+总是 = zong3 shi4 = always {joong si}\
+梦 = meng4 = to dream {mong}\
+故事 = gu4 shi5 = story {guu si}\
+讲 = jiang3 = to speak/ talk {gong}\
+—-\
+还 = hai2 = still\
+或是 = huo4 shi4 = or\
+想 = miss (her)\
+饮料 = yin3 liao4 = drink/beverage {yum liu}\
+—-\
+我们吃饭以前要洗手\
+吃饭以后，一定要马上刷牙\
+我喜欢一边洗澡，一边唱歌\
+他们还没有起床\
+我想我的哥哥，想马上见他 = I miss my older brother, I want to see him at once\
+很晚睡觉不是一个好习惯\
+我的刷牙习惯是每天三次 = My habit is to brush my teeth three times a day \
+我不习惯这里的天气。\
+我还没有洗澡\
+一边看电视一边吃饭不是好习惯。\
+为什么你总是看手机？ = Why are you always looking at your phone\
+他总是在早上九点给我打电话。\
+别做梦了 = Stop dreaming\
+这个故事不是真的。\
+她在讲什么？\
+孩子睡觉以前，他们的爸爸会讲故事。\
+这是他以前的女朋友\
+明天我们下班以后一起看电影吧。\
+我习惯一边跑步，一边听音乐。= I have a habit of running and listening to music at the same time\
+昨天晚上我做梦了。\
+我可以讲一个故事给你听吗？\
+这个辣极了，快一点儿给我水。\
 请问，你们有什么其他饮料?
 
 ## 4.14 - Food 3 
-除了... 都
-除了 = chu2 le5 = except for/ in addition to {cheui liu}
-其他 = qi2 ta1 = other people {kay taa}
-还 = hai2 = else/ also
-极了 = ji2 le5 = extremely (used after adj) {gik liu}
-辣 = la4 = spicy {laat}
-苦 = ku3 = bitter {fuu}
-难吃 = nan2 chi1 = tastes bad
-饺子 = jiao3 zi5 = dumplings {gaao zi}
-盐 = yan2 = salt {yeem}
-北方 = bei3 fang1 = northern {buk fong}
-南方 = nan2 fang1 = southern {lam fong}
-咸 = xian2 = salty {haam}
-鸡 = ji1 = chicken {gai}
-—-
-辛 = xin1 = hot/ pungent (taste)
-束 = shu4 = classifier for bunches, bundle, beams of light
-古 = gu3 = ancient/ old
-食 = shi2 = to eat/ to have sex with
-乞儿 = qi3 r5 = beggar
-难 = nan2 = difficult
-甜 = tian2 = sweet 
-—-
-除了她，其他人都来了
-除了荼，你还想喝什么 = In addition to tea, what else would you like to drink
-除了美国，我还去过英国 = in addition to the US, I have also been to the UK
-除了你，我们都认识他 = Except for you, we all know him
-你有其他问题吗
-他是北方人。= She is a northerner
-你会做饺子吗？
-这个药很苦
-你明天来看我? 好极了！= you’re coming to see me tomorrow? That’s great!
-印度菜辣吗？
-这是什么？苦极了。= what is this? This is extremely bitter
-我不能吃辣。
-我只喜欢吃咸的，不喜欢吃甜的
-南方菜很好吃
-南方菜比北方菜甜吗？
-对不起，这个鸡肉很难吃
-请问，你们有什么其他饮料？
+除了... 都\
+除了 = chu2 le5 = except for/ in addition to {cheui liu}\
+其他 = qi2 ta1 = other people {kay taa}\
+还 = hai2 = else/ also\
+极了 = ji2 le5 = extremely (used after adj) {gik liu}\
+辣 = la4 = spicy {laat}\
+苦 = ku3 = bitter {fuu}\
+难吃 = nan2 chi1 = tastes bad\
+饺子 = jiao3 zi5 = dumplings {gaao zi}\
+盐 = yan2 = salt {yeem}\
+北方 = bei3 fang1 = northern {buk fong}\
+南方 = nan2 fang1 = southern {lam fong}\
+咸 = xian2 = salty {haam}\
+鸡 = ji1 = chicken {gai}\
+—-\
+辛 = xin1 = hot/ pungent (taste)\
+束 = shu4 = classifier for bunches, bundle, beams of light\
+古 = gu3 = ancient/ old\
+食 = shi2 = to eat/ to have sex with\
+乞儿 = qi3 r5 = beggar\
+难 = nan2 = difficult\
+甜 = tian2 = sweet \
+—-\
+除了她，其他人都来了\
+除了荼，你还想喝什么 = In addition to tea, what else would you like to drink\
+除了美国，我还去过英国 = in addition to the US, I have also been to the UK\
+除了你，我们都认识他 = Except for you, we all know him\
+你有其他问题吗\
+他是北方人。= She is a northerner\
+你会做饺子吗？\
+这个药很苦\
+你明天来看我? 好极了！= you’re coming to see me tomorrow? That’s great!\
+印度菜辣吗？\
+这是什么？苦极了。= what is this? This is extremely bitter\
+我不能吃辣。\
+我只喜欢吃咸的，不喜欢吃甜的\
+南方菜很好吃\
+南方菜比北方菜甜吗？\
+对不起，这个鸡肉很难吃\
+请问，你们有什么其他饮料？\
 这个辣极了，快一点儿给我水。
 
 ## 4.15 - People 3
-比较 = bi3 jiao4 = more (used before adj) ｛bei gao}
-年轻 = nian2 qing1 = young {nin hing}
-戴 = dai4 = to wear (手表，眼镜，帽子）
-个子 = ge4 zi5 = height
-初中 = chu1 zhong1 = middle school/ junior high school
-长 = zhang3 = long/ grow {cheung}
-级 = ji2 = grade/ level {kap}
-眼镜 = yan3 jing4 = eyeglasses
-—-
-交 = jiao = to hand over
-穿 = chuan1 = to wear (衣服，衬衫，裙子，裤子，鞋子）
-—-
-这里的菜比较好吃 = the dishes here are more delicious
-比较年轻的是我的老师
-那里的冬天比较冷
-她是我初中的同学。= She was my classmate in middle school
-孩子长得很快。
-你今年几年级？
-他现在个子很高。
-我的妹妹的小学离这里很近。
-我是五年级的学生。
-你的父母很年轻
-我不戴手表
-比较老的是我的妈妈。
-他今天戴帽子
-他是一个初中学生，但是个子比我高
-她现在个子很高。
-很多年轻人喜欢这个游戏。
-我的同学个子很高。= My classmate is tall
-我的弟弟是小学六年级的学生 = My younger brother is a sixth-grade student in elementary school
+比较 = bi3 jiao4 = more (used before adj) ｛bei gao}\
+年轻 = nian2 qing1 = young {nin hing}\
+戴 = dai4 = to wear (手表，眼镜，帽子）\
+个子 = ge4 zi5 = height\
+初中 = chu1 zhong1 = middle school/ junior high school\
+长 = zhang3 = long/ grow {cheung}\
+级 = ji2 = grade/ level {kap}\
+眼镜 = yan3 jing4 = eyeglasses\
+—-\
+交 = jiao = to hand over\
+穿 = chuan1 = to wear (衣服，衬衫，裙子，裤子，鞋子）\
+—-\
+这里的菜比较好吃 = the dishes here are more delicious\
+比较年轻的是我的老师\
+那里的冬天比较冷\
+她是我初中的同学。= She was my classmate in middle school\
+孩子长得很快。\
+你今年几年级？\
+他现在个子很高。\
+我的妹妹的小学离这里很近。\
+我是五年级的学生。\
+你的父母很年轻\
+我不戴手表\
+比较老的是我的妈妈。\
+他今天戴帽子\
+他是一个初中学生，但是个子比我高\
+她现在个子很高。\
+很多年轻人喜欢这个游戏。\
+我的同学个子很高。= My classmate is tall\
+我的弟弟是小学六年级的学生 = My younger brother is a sixth-grade student in elementary school\
 很多老人喜欢去公园做运动。
 
 ## 4.16 - Location 6
-在...的东边 = de5 dong1 bian5 = in... the east side
-先 = xian1 = first/ early {seen}
-然后 = ran2 hou4 = after/ then
-一直 = yi1 zhi2 = always/ keeps {yat jik}
-周围 = zhou1 wei2 = surrounding/ around {jau wai}
-地址 = di4 zhi3 = address {dei ji}
-迷路 = mi2 lu4 = lost {mai lou}
-—-
-德国 = de2 guo2 = Germany
-就 = jiu4 = (if...) then = {jao}
-—-
-公园在城市的东边。
-我住在香港的南边。
-他去了德国的西边看朋友。
-机场在城市的北边。
-我们要往前走。= we need to walk straight ahead
-往左去
-我们先看电影,  然后吃晚饭 = First we watch a movie, then we eat dinner
-我们要先去商店，然后回家。
-你先往前走，然后往左走
-我在日本的东边旅游。= I travel on the east side of Japan
-她用左手写字。
-别往后看。= Don’t look back
-我的狗一直在生病。= My dog keeps getting sick
-往右跑 = Run to the right
-先去学校，然后去超市，最后回家。
-为什么你一直在笑? = Why do you keep laughing?
-如果你们一直往前走，就会到公园。
-酒店的周围没有很多饭馆。*
-我觉得我们迷路了。
-周围没有人 = There is nobody around
-你的地址是什么？
-你迷路了吗？ = Are you lost?
-先往前走，然后往左走。= First walk straight then turn left
-我的家周围有很多树
-她在英国的北边工作。
-这个地址是错的。
+在...的东边 = de5 dong1 bian5 = in... the east side\
+先 = xian1 = first/ early {seen}\
+然后 = ran2 hou4 = after/ then\
+一直 = yi1 zhi2 = always/ keeps {yat jik}\
+周围 = zhou1 wei2 = surrounding/ around {jau wai}\
+地址 = di4 zhi3 = address {dei ji}\
+迷路 = mi2 lu4 = lost {mai lou}\
+—-\
+德国 = de2 guo2 = Germany\
+就 = jiu4 = (if...) then = {jao}\
+—-\
+公园在城市的东边。\
+我住在香港的南边。\
+他去了德国的西边看朋友。\
+机场在城市的北边。\
+我们要往前走。= we need to walk straight ahead\
+往左去\
+我们先看电影,  然后吃晚饭 = First we watch a movie, then we eat dinner\
+我们要先去商店，然后回家。\
+你先往前走，然后往左走\
+我在日本的东边旅游。= I travel on the east side of Japan\
+她用左手写字。\
+别往后看。= Don’t look back\
+我的狗一直在生病。= My dog keeps getting sick\
+往右跑 = Run to the right\
+先去学校，然后去超市，最后回家。\
+为什么你一直在笑? = Why do you keep laughing?\
+如果你们一直往前走，就会到公园。\
+酒店的周围没有很多饭馆。\
+我觉得我们迷路了。\
+周围没有人 = There is nobody around\
+你的地址是什么？\
+你迷路了吗？ = Are you lost?\
+先往前走，然后往左走。= First walk straight then turn left\
+我的家周围有很多树\
+她在英国的北边工作。\
+这个地址是错的。\
 
 ## 4.17 - Routine 3
-自己 = zi4 ji3 = oneself/ by myself {ji gei} (use before verb)
-一个人 = yi2 ge4 ren2 = alone (use before verb)
-自己一个人 = alone by (my)self (for extra emphasis)
-有时候 = sometimes
-聊天 = liao2 tian1 = to chat/ gossip {liu tin}
-一般 = yi1 ban1 = normally {yut boon}
-——
-了解 = liao3 jie3 = to understand/to find out {liu gaai}
-——
-你自己去，我不想去。
-你想一个人住还是跟朋友一起住。
-她有时候自己一个人去旅游。= She sometimes goes travelling alone by herself
-我喜欢自己一个人去买东西。= I like to go shopping alone by myself
-他们一边喝茶，一边聊天。= They drink tea and chat at the same time
-周末你一般喜欢做什么。
-我们什么时候会再见面。
-你一般几点下班？
-每个星期六，我会跟妈妈上网聊天。= I talk to mom on the internet every saturday
-你昨天晚上跟谁在聊天？
-我跟朋友在周末见面的时候，会喝啤酒。
+自己 = zi4 ji3 = oneself/ by myself {ji gei} (use before verb)\
+一个人 = yi2 ge4 ren2 = alone (use before verb)\
+自己一个人 = alone by (my)self (for extra emphasis)\
+有时候 = sometimes\
+聊天 = liao2 tian1 = to chat/ gossip {liu tin}\
+一般 = yi1 ban1 = normally {yut boon}\
+——\
+了解 = liao3 jie3 = to understand/to find out {liu gaai}\
+——\
+你自己去，我不想去。\
+你想一个人住还是跟朋友一起住。\
+她有时候自己一个人去旅游。= She sometimes goes travelling alone by herself\
+我喜欢自己一个人去买东西。= I like to go shopping alone by myself\
+他们一边喝茶，一边聊天。= They drink tea and chat at the same time\
+周末你一般喜欢做什么。\
+我们什么时候会再见面。\
+你一般几点下班？\
+每个星期六，我会跟妈妈上网聊天。= I talk to mom on the internet every saturday\
+你昨天晚上跟谁在聊天？\
+我跟朋友在周末见面的时候，会喝啤酒。\
 你跟家人一般什么时候见面？
 
 ## 4.18 - Travel 2
-头发 = tou2 fa5 
-发现 = fa1 xian4 = to find/ discove r/ realize {faat yeen}
-几 = ji3 = how many
-几乎 = ji1 hu1 = almost {gei fu}
-护照 = hu4 zhao4 = passport {wu jiu}
-签证 = qian1 zheng4 = Visa {chim1 jing3}
-起飞 = qi3 fei1 = to take off (in an airplane)
-行李 = xing2 li5 = luggage {hung lei}
-检查 = jian3 cha2 = inspect {gim cha}
-安全 = an1 quan2 = security {on chyun}
-海关 = hai3 guan1 = customs {hoi gwaan}
-忘记 = wang4 ji4 = forget {mong gei}
-—-
-我不能去，因为我没有签证。
-我的护照在哪儿？
-我发现我没有带护照。
-别离开我。= Don’t leave me
-我发现我没有旅游签证
-你发现了什么？
-请再检查一次。= Please check one more time
-我们不可以带什么进安全检查。= What can’t we take through the security check?
-不要带太多行李。
-他几乎迟到了
-別忘记带护照
-我几乎忘记她的生日。
-这个地方我们不需要签证。= We don’t need a Visa for this place
-请检查一下你的行李。
+头发 = tou2 fa5 \
+发现 = fa1 xian4 = to find/ discove r/ realize {faat yeen}\
+几 = ji3 = how many\
+几乎 = ji1 hu1 = almost {gei fu}\
+护照 = hu4 zhao4 = passport {wu jiu}\
+签证 = qian1 zheng4 = Visa {chim1 jing3}\
+起飞 = qi3 fei1 = to take off (in an airplane)\
+行李 = xing2 li5 = luggage {hung lei}\
+检查 = jian3 cha2 = inspect {gim cha}\
+安全 = an1 quan2 = security {on chyun}\
+海关 = hai3 guan1 = customs {hoi gwaan}\
+忘记 = wang4 ji4 = forget {mong gei}\
+—-\
+我不能去，因为我没有签证。\
+我的护照在哪儿？\
+我发现我没有带护照。\
+别离开我。= Don’t leave me\
+我发现我没有旅游签证\
+你发现了什么？\
+请再检查一次。= Please check one more time\
+我们不可以带什么进安全检查。= What can’t we take through the security check?\
+不要带太多行李。\
+他几乎迟到了\
+別忘记带护照\
+我几乎忘记她的生日。\
+这个地方我们不需要签证。= We don’t need a Visa for this place\
+请检查一下你的行李。\
 晚上不要出去，不安全。
 
 ## 4.19 - Lang 2
-了... 了 = has been doing... for some time
-更 = geng4 = even more {gung} (used before adj)
-努力 = nu3 li4 = to strive/ try hard {nou lik}
-久 = jiu3 = long time
-那种 = na4 zhong3 = that kind of
-语言 = yu3 yan2 = (spoken) language {yu yeen}
-容易 = rong2 yi4 = easy {yong yi}
-怎么了 = What happened
-水平 = shui3 ping2 = skills/ proficiency {seui ping}
-提高 = ti2 gao1 = to improve {tai gou}
-—-
-我工作了十个小时了。
-他们学中文学了两年了。（verb 学 is repeated again because there’s an object)
-他跑步跑了二十分钟了。（verb 跑 is repeated because 跑步 is separable)
-他等你等了很久了。
-我觉得学汉字更难。
-明天会更好。 = Tomorrow will be even better
-我会更努力学习中文。
-你觉得学哪种语言最容易。= Which language do you think is the easiest to learn?
-我认识他很久了。
-他每天都很努力工作。
-每个汉字都有一个故事吗？
-他们后来怎么了？= What happened to them afterwards
-我努力学习，后来考试考得不错。= I studied hard and later did well on the exam
-她的英语水平很不错。
-我们怎么样提高汉语水平？= How do we improve our Chinese proficiency
-明天我会考中文。= I have a Chinese test tomorrow
-说比做容易。
+了... 了 = has been doing... for some time\
+更 = geng4 = even more {gung} (used before adj)\
+努力 = nu3 li4 = to strive/ try hard {nou lik}\
+久 = jiu3 = long time\
+那种 = na4 zhong3 = that kind of\
+语言 = yu3 yan2 = (spoken) language {yu yeen}\
+容易 = rong2 yi4 = easy {yong yi}\
+怎么了 = What happened\
+水平 = shui3 ping2 = skills/ proficiency {seui ping}\
+提高 = ti2 gao1 = to improve {tai gou}\
+—-\
+我工作了十个小时了。\
+他们学中文学了两年了。（verb 学 is repeated again because there’s an object)\
+他跑步跑了二十分钟了。（verb 跑 is repeated because 跑步 is separable)\
+他等你等了很久了。\
+我觉得学汉字更难。\
+明天会更好。 = Tomorrow will be even better\
+我会更努力学习中文。\
+你觉得学哪种语言最容易。= Which language do you think is the easiest to learn?\
+我认识他很久了。\
+他每天都很努力工作。\
+每个汉字都有一个故事吗？\
+他们后来怎么了？= What happened to them afterwards\
+我努力学习，后来考试考得不错。= I studied hard and later did well on the exam\
+她的英语水平很不错。\
+我们怎么样提高汉语水平？= How do we improve our Chinese proficiency\
+明天我会考中文。= I have a Chinese test tomorrow\
+说比做容易。\
 你能说几种语言。
