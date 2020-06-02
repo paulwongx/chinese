@@ -85,6 +85,7 @@
 ## 3.11 Invite 2
 
 ## 3.12 - Invite 2
+```
 希望 = xi1 wang4 = to hope/ to wish for
 派对 = pai4 dui4 = party {paai deui}
 打扮 = da3 ban5 = dress up
@@ -133,28 +134,29 @@
 这里的饮料很贵
 晚饭的菜很少 = there is very little food at dinner
 我姐姐做的甜点真漂亮 = The dessert my older sister made is really pretty
+```
 
 ## 3.14 - Shopping 2
-鞋子 = xie2 zi5 = shoe
-衬衫 = chen4 shan1 = shirt
-裙子 = qun2 zi5 = skirt
-双 = shuang1 = two/ pair
-条 = tiao2 = strip/ item
-件 = jian4 = item/ component
-试 = shi4 = to try/test
-还 = hai2 = still
-意大利 = yi4 da4 li4 = Italy
-裤子 = ku4 zi5 = jeans
-质量 = zhi4 liang4 = quality
+鞋子 = xie2 zi5 = shoe\
+衬衫 = chen4 shan1 = shirt\
+裙子 = qun2 zi5 = skirt\
+双 = shuang1 = two/ pair\
+条 = tiao2 = strip/ item\
+件 = jian4 = item/ component\
+试 = shi4 = to try/test\
+还 = hai2 = still\
+意大利 = yi4 da4 li4 = Italy\
+裤子 = ku4 zi5 = jeans\
+质量 = zhi4 liang4 = quality\
 —-
-你会留在这里吗？
-你有几双鞋子
-你想买哪双鞋子
-你看见过篮色的鸟吗？
-你应该买这件衬衫
-这双比那双少
-她觉得那家商店的衣服质量不好
-你还想买什么
+你会留在这里吗？\
+你有几双鞋子\
+你想买哪双鞋子\
+你看见过篮色的鸟吗？\
+你应该买这件衬衫\
+这双比那双少\
+她觉得那家商店的衣服质量不好\
+你还想买什么\
 
 ## 3.15 - Body Parts
 眼睛 = yan3 jing5 = eye
