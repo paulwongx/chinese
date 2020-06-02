@@ -157,391 +157,391 @@
 你还想买什么
 
 ## 3.15 - Body Parts
-眼睛 = yan3 jing5 = eye
-耳朵 = er3 duo5 = ear
-眼镜 = yan3 jing4 = eyeglasses
-緑 = lu4 = green 
-脸 = lian3 = face
-头发 = hair
-嘴巴 = zui3 ba1 = mouth
-脚 = jiao3 = feet
-鼻子 = bi2 zi5 = nose
-—-
+眼睛 = yan3 jing5 = eye\
+耳朵 = er3 duo5 = ear\
+眼镜 = yan3 jing4 = eyeglasses\
+緑 = lu4 = green\
+脸 = lian3 = face\
+头发 = hair\
+嘴巴 = zui3 ba1 = mouth\
+脚 = jiao3 = feet\
+鼻子 = bi2 zi5 = nose\
+—-\
 她的嘴巴很小，很可爱。
 
 ## 4.1 - Travel
-走路 = zou3 lu4 = to walk
-离 = li2 = to/ away/ from
-飞机 = fei1 ji1 = airplane
-机场 = ji1 chang3 = airport
-靠近 = kao4 jin4 = close to/ get close
-停 = ting2 = to stop
-迟到 = chi2 dao4 = late
-让 = rang4 = allow
-怎么办 = what to do
-机票 = ticket
-意大利 = yi4 da4 li4 = Italy
-火车站 = hou3 che1 zhan4 = train station
-得 = dei3 = need to
-—-
-汽车 = qi4 che1 = car
-公司 = gong1 si1 = company
-办公室 = ban4 gong1 shi4 = office
-—-
-医院离这里远吗 = is the hospital far from here?
-开车去那儿只要一个半小时 = it only takes an hour and a half to drive there
-你们得走路来这儿 = you need to walk to come here
-请让我跟你一起去
-他的家离学校不近
-走路去那儿要半个小时。
-我们现在离酒店很近
-医院离这里远吗？
-在中国汽车靠右边开。
-你开车来要五十分钟 = It will take you 50 minutes to drive here
-下个月我要去北京，现在得买机票
-我们得买火车票 = we need to buy train tickets
-你们一定不可以迟到
-我们迟到了，他们不让我们上飞机
-别靠近我
+走路 = zou3 lu4 = to walk\
+离 = li2 = to/ away/ from\
+飞机 = fei1 ji1 = airplane\
+机场 = ji1 chang3 = airport\
+靠近 = kao4 jin4 = close to/ get close\
+停 = ting2 = to stop\
+迟到 = chi2 dao4 = late\
+让 = rang4 = allow\
+怎么办 = what to do\
+机票 = ticket\
+意大利 = yi4 da4 li4 = Italy\
+火车站 = hou3 che1 zhan4 = train station\
+得 = dei3 = need to\
+—-\
+汽车 = qi4 che1 = car\
+公司 = gong1 si1 = company\
+办公室 = ban4 gong1 shi4 = office\
+—-\
+医院离这里远吗 = is the hospital far from here?\
+开车去那儿只要一个半小时 = it only takes an hour and a half to drive there\
+你们得走路来这儿 = you need to walk to come here\
+请让我跟你一起去\
+他的家离学校不近\
+走路去那儿要半个小时。\
+我们现在离酒店很近\
+医院离这里远吗？\
+在中国汽车靠右边开。\
+你开车来要五十分钟 = It will take you 50 minutes to drive here\
+下个月我要去北京，现在得买机票\
+我们得买火车票 = we need to buy train tickets\
+你们一定不可以迟到\
+我们迟到了，他们不让我们上飞机\
+别靠近我\
 去意大利的机票太贵了
 
 ## 4.2 - Weather
-冷 = leng3 = cold
-晴天 = qing2 tian1 = sunny/ clear sky
-阴天 = yin1 tian1 = cloudy day
-下雪 = xia4 xue3 = snowing
-带 = dai4 = to bring/carry
-伞 = san3 = umbrella
-刮风 = gua1 feng1 = windy
-了 = needed when it implies change, esp with an exclamation mark, like when saying it’s raining now! 
-如果...就 = if... then...
-如果 = ru2 guo3 = if
-就 = jiu4 = then
-—-
-还是 = hai2 shi4 = or
-—-
-昨天北京是晴天。
-你觉得明天会是晴天吗？
-明天会有多冷
-下雪的时候，这里很漂亮
-上星期下了雨。
-快一点儿，他在等着我们。
-外面下着雨，你出去要带伞
-外面下着雪，别出去玩
-外面刮着风
-今天是晴天，我们出去玩吧！
-如果你不能来，就一定要告诉我们。
-明天会刮大风
-刮大风 = very windy
-阴天的时候，我喜欢在家看书 = when it is cloudy, I like reading books at home
-昨天的雪很大，我们都没有上班
+冷 = leng3 = cold\
+晴天 = qing2 tian1 = sunny/ clear sky\
+阴天 = yin1 tian1 = cloudy day\
+下雪 = xia4 xue3 = snowing\
+带 = dai4 = to bring/carry\
+伞 = san3 = umbrella\
+刮风 = gua1 feng1 = windy\
+了 = needed when it implies change, esp with an exclamation mark, like when saying it’s raining now! \
+如果...就 = if... then...\
+如果 = ru2 guo3 = if\
+就 = jiu4 = then\
+—-\
+还是 = hai2 shi4 = or\
+—-\
+昨天北京是晴天。\
+你觉得明天会是晴天吗？\
+明天会有多冷\
+下雪的时候，这里很漂亮\
+上星期下了雨。\
+快一点儿，他在等着我们。\
+外面下着雨，你出去要带伞\
+外面下着雪，别出去玩\
+外面刮着风\
+今天是晴天，我们出去玩吧！\
+如果你不能来，就一定要告诉我们。\
+明天会刮大风\
+刮大风 = very windy\
+阴天的时候，我喜欢在家看书 = when it is cloudy, I like reading books at home\
+昨天的雪很大，我们都没有上班\
 明天是阴天 = Tomorrow will be cloudy
 
 ## 4.3 - Shopping 3
-颜色 = yan2 se4 = color
-虽然.... 但是 = although... but...
-虽然 = sui1 ran2 = although
-但昰 = dan4 shi4 = but
-我...(adjective) 的 = I... one
-帽孑 = mao4 zi5 = hat
-长 = zhang3 = long
-短 = duan3 = short
-穿 = chuan1 = wear
-手表 = shou3 biao3 = wrist watch
-紫 = zi3 = purple
-买 = mai3 = to buy
-卖 = mai4 = to sell
-舒服 = shu1 fu5 = comfortable
-—-
-真 = really
-很 = very
-黄 = yellow(simplified); 黃 = yellow(traditional)
-篮 = lan2 = basket
-蓝 = lan2 = blue
-脸 = lian3 = face
-脸红 = lian3 hong2 = blushing
-—-
-他虽然生病了，但是没有请假
-这条裙子要用手洗
-白色的衣服很难洗
-你穿红色的衣服最漂亮。
-他的脸红了
-我要穿什么去这个派对
-袖标巳经卖完了
-虽然那条裤子很便宜，但是不舒服
-我穿什么颜色很好看？
-他的脸红广了 = His face has turned red
-我今天不想洗衣服
-那双黄色的鞋子是我的
-我们可以去哪里买帽子
-我觉得紫色最好看
+颜色 = yan2 se4 = color\
+虽然.... 但是 = although... but...\
+虽然 = sui1 ran2 = although\
+但昰 = dan4 shi4 = but\
+我...(adjective) 的 = I... one\
+帽孑 = mao4 zi5 = hat\
+长 = zhang3 = long\
+短 = duan3 = short\
+穿 = chuan1 = wear\
+手表 = shou3 biao3 = wrist watch\
+紫 = zi3 = purple\
+买 = mai3 = to buy\
+卖 = mai4 = to sell\
+舒服 = shu1 fu5 = comfortable\
+—-\
+真 = really\
+很 = very\
+黄 = yellow(simplified); 黃 = yellow(traditional)\
+篮 = lan2 = basket\
+蓝 = lan2 = blue\
+脸 = lian3 = face\
+脸红 = lian3 hong2 = blushing\
+—-\
+他虽然生病了，但是没有请假\
+这条裙子要用手洗\
+白色的衣服很难洗\
+你穿红色的衣服最漂亮。\
+他的脸红了\
+我要穿什么去这个派对\
+袖标巳经卖完了\
+虽然那条裤子很便宜，但是不舒服\
+我穿什么颜色很好看？\
+他的脸红广了 = His face has turned red\
+我今天不想洗衣服\
+那双黄色的鞋子是我的\
+我们可以去哪里买帽子\
+我觉得紫色最好看\
 手表已经卖完了
 
 ## 4.4 - People 2
-介绍 = jie4 shao4 = to introduce
-帅 = shuai4 = handsome
-聪明 = cong1 ming5 = intelligent
-不但…而且... = bu4 dan4... er2 qie3 = not only... but also...
-别人 = bie2 ren2 = other people
-笑 = xiao4 = laugh/ smile
-说话 = shou1 hua4 = speak
-—-
-需要 = xu1 yao4 = need
-—-
-你的朋友很帅，可以给我介绍吗？
-你们在笑什么
-虽然他不喜欢说话，但是喜欢笑
-我们怎么样可以比别人好
-别告诉別人
-我们看电影的时候，请不要说话。
-你不需要介绍，我认识她
-你们在笑什么？
-我有一只聪明的小鸟，它会跳舞
-他不但帅，而且聪明
+介绍 = jie4 shao4 = to introduce\
+帅 = shuai4 = handsome\
+聪明 = cong1 ming5 = intelligent\
+不但…而且... = bu4 dan4... er2 qie3 = not only... but also...\
+别人 = bie2 ren2 = other people\
+笑 = xiao4 = laugh/ smile\
+说话 = shou1 hua4 = speak\
+—-\
+需要 = xu1 yao4 = need\
+—-\
+你的朋友很帅，可以给我介绍吗？\
+你们在笑什么\
+虽然他不喜欢说话，但是喜欢笑\
+我们怎么样可以比别人好\
+别告诉別人\
+我们看电影的时候，请不要说话。\
+你不需要介绍，我认识她\
+你们在笑什么？\
+我有一只聪明的小鸟，它会跳舞\
+他不但帅，而且聪明\
 她喜欢帮助别人
 
 ## 4.5 - Celebrate
-春节 = chun1 jie2 = Spring festival
-送 = song4 = to give/deliver
-给 = gei3 = to give/allow
-送给 = song4 gei3 = to give as a present
-法国 = fa3 guo2 = France
-礼物 = li3 wu4 = gift/ present
-节日 = jie2 ri4 = holiday
-干杯 = gan1 bei1 = cheers (proposing a toast)/ to drink a toast/ bottoms up/ here’s to you!
-祝 = zhu4 = wish
-—-
-试 = shi4 = to try
-穿 = chuan1 = wear
-喝多了 = drunk
-—-
-节日快乐
-中国人在春节喜欢穿红的衣服
-今年生日你们会怎么过？ = How will you celebrate your birthday this year
-我们要送什么礼物给她。 = What gift should we give to her
-干杯！多喝一点儿 （多喝 is polite. 喝多 is commanding - like mother to child)
-祝你们身体健康
-我觉得红酒比啤洒健康
-我要穿什么去这个派对？= what should I wear to go to this party?
-中国人怎么过新年 = How do Chinese people spend New Year’s?
-下午，我会去商店买礼物
-你会来我们的新年派对吗
-今年你会什么过生日 = How will you celebrate your birthday this year
-他喝了三瓶中国白酒，现在在睡觉
-今年春节我不能跟家人一起过
+春节 = chun1 jie2 = Spring festival\
+送 = song4 = to give/deliver\
+给 = gei3 = to give/allow\
+送给 = song4 gei3 = to give as a present\
+法国 = fa3 guo2 = France\
+礼物 = li3 wu4 = gift/ present\
+节日 = jie2 ri4 = holiday\
+干杯 = gan1 bei1 = cheers (proposing a toast)/ to drink a toast/ bottoms up/ here’s to you!\
+祝 = zhu4 = wish\
+—-\
+试 = shi4 = to try\
+穿 = chuan1 = wear\
+喝多了 = drunk\
+—-\
+节日快乐\
+中国人在春节喜欢穿红的衣服\
+今年生日你们会怎么过？ = How will you celebrate your birthday this year\
+我们要送什么礼物给她。 = What gift should we give to her\
+干杯！多喝一点儿 （多喝 is polite. 喝多 is commanding - like mother to child)\
+祝你们身体健康\
+我觉得红酒比啤洒健康\
+我要穿什么去这个派对？= what should I wear to go to this party?\
+中国人怎么过新年 = How do Chinese people spend New Year’s?\
+下午，我会去商店买礼物\
+你会来我们的新年派对吗\
+今年你会什么过生日 = How will you celebrate your birthday this year\
+他喝了三瓶中国白酒，现在在睡觉\
+今年春节我不能跟家人一起过\
 什么礼物不能送给中国人
 
 ## 4.6 - Sports 2
-第 = di4 = ordinal number marker
-...快要... (verb)... 了 = kuai4 yao4... le5 = ...about to... 
-了= le5 = a change in the situation
-比赛 = bi3 sai4 = competition (sports)/ the game
-练习 = lian4 xi2 = practice
-好在 = luckily
-乒乓球 = ping1 pang1 qiu2 = table tennis
-打排球 = da3 pai2 qiu2 = to play volleyball
-网球 = wang3 qiu2 = tennis
-加油 = jia1 you2 = come on (cheer)
-参加 = can1(“shen1”) jia1 = attend/ participate in
-输 = shu1 = to lose
-赢 = ying2 = to win
-信心 = xin4 xin1 = confidence
-失望 = shi1 wang4 = disappointed
-—-
-开始 = kai1 shi3 = to start
-运动 = yun4 dong4 = sport
-踢足球 = ti1 zu2 qiu2 = play soccer
-凡 = fan2 = ordinary/ commonplace
-亡 = wang2 = to die
-—-
-快要下雨了 = it’s about to rain
-可以跟你练习中文吗？
-他明年要参加篮球比赛
-一个医生应该有信心
-不要失望，你下次会赢
-加油，还有一分钟 = come on, there’s still a minute left
-我们都不喜欢他。好在他没有来。= none of us like him. Luckily he didn’t come
-我生病了,不能参加你的派对
-这是我第一次参加足球比赛
-我们有信心会赢这个比赛
-我知道我们不会输
-他们输了，我非常失望
-我们练了两个月
-我很累，因为我昨天打了排球
-我要打网球，但是我感冒了
-我下午会在学校练习打乒乓球。
-游泳比赛几点开始
+第 = di4 = ordinal number marker\
+...快要... (verb)... 了 = kuai4 yao4... le5 = ...about to...\
+了= le5 = a change in the situation\
+比赛 = bi3 sai4 = competition (sports)/ the game\
+练习 = lian4 xi2 = practice\
+好在 = luckily\
+乒乓球 = ping1 pang1 qiu2 = table tennis\
+打排球 = da3 pai2 qiu2 = to play volleyball\
+网球 = wang3 qiu2 = tennis\
+加油 = jia1 you2 = come on (cheer)\
+参加 = can1(“shen1”) jia1 = attend/ participate in\
+输 = shu1 = to lose\
+赢 = ying2 = to win\
+信心 = xin4 xin1 = confidence\
+失望 = shi1 wang4 = disappointed\
+—-\
+开始 = kai1 shi3 = to start\
+运动 = yun4 dong4 = sport\
+踢足球 = ti1 zu2 qiu2 = play soccer\
+凡 = fan2 = ordinary/ commonplace\
+亡 = wang2 = to die\
+—-\
+快要下雨了 = it’s about to rain\
+可以跟你练习中文吗？\
+他明年要参加篮球比赛\
+一个医生应该有信心\
+不要失望，你下次会赢\
+加油，还有一分钟 = come on, there’s still a minute left\
+我们都不喜欢他。好在他没有来。= none of us like him. Luckily he didn’t come\
+我生病了,不能参加你的派对\
+这是我第一次参加足球比赛\
+我们有信心会赢这个比赛\
+我知道我们不会输\
+他们输了，我非常失望\
+我们练了两个月\
+我很累，因为我昨天打了排球\
+我要打网球，但是我感冒了\
+我下午会在学校练习打乒乓球。\
+游泳比赛几点开始\
 加油，你要有信心。
 
 ## 4.7 - School
-懂 = dong3 = understand
-课 = ke4 = class
-同学 = tong2 xue2 = classmates
-地理 = di4 li3 = geography
-教室 = jiao4 shi4 = classroom {gaau sut}
-笔 = bi3 = pen
-问题 = wen4 ti2 = question/ problem
-美术 = mei3 shu4 = art {mei sut}
-科学 = ke1 xue2 = science {foor hok}
-考试 = kao3 shi4 = exam {haao si}
-准备 = zhun3 bei4 = prepare
-—-
-教育 = jiao4 yu4 = to educate {gaau yuk}
-重 = chong2 = important/ repeat/ heavy {chonng}
-毛 = mao2 = hair/ feather
-术 = shu4 = method/ technique
-木 = mu4 = tree/ wood
-本 = ben3 = classifier for books // 日本
-休 = xiu1 = to rest
-休息 = xiu1 xi5 = to rest
-体 = ti3 = body/ form
-体育 = ti3 yu4 = sports
-需要 = xu1 yao4 = need to
-—-
-地理很难，我不明白的东西很多
-你懂老师在说什么吗？
-科学考试很难
-我不懂这一题问题
-这次中文考试有多少题
-我想去洗手间，希望快一点儿下课
-我们几点有汉语课
-考试一共有十五题
-老师，什么时候下课
-快要考试了，我们要开始准备
-请问我们的教室在哪里
-你认识哪些同学吗？
-明天下午我没有课
-我们看不懂
-我没有准备
+懂 = dong3 = understand\
+课 = ke4 = class\
+同学 = tong2 xue2 = classmates\
+地理 = di4 li3 = geography\
+教室 = jiao4 shi4 = classroom {gaau sut}\
+笔 = bi3 = pen\
+问题 = wen4 ti2 = question/ problem\
+美术 = mei3 shu4 = art {mei sut}\
+科学 = ke1 xue2 = science {foor hok}\
+考试 = kao3 shi4 = exam {haao si}\
+准备 = zhun3 bei4 = prepare\
+—-\
+教育 = jiao4 yu4 = to educate {gaau yuk}\
+重 = chong2 = important/ repeat/ heavy {chonng}\
+毛 = mao2 = hair/ feather\
+术 = shu4 = method/ technique\
+木 = mu4 = tree/ wood\
+本 = ben3 = classifier for books // 日本\
+休 = xiu1 = to rest\
+休息 = xiu1 xi5 = to rest\
+体 = ti3 = body/ form\
+体育 = ti3 yu4 = sports\
+需要 = xu1 yao4 = need to\
+—-\
+地理很难，我不明白的东西很多\
+你懂老师在说什么吗？\
+科学考试很难\
+我不懂这一题问题\
+这次中文考试有多少题\
+我想去洗手间，希望快一点儿下课\
+我们几点有汉语课\
+考试一共有十五题\
+老师，什么时候下课\
+快要考试了，我们要开始准备\
+请问我们的教室在哪里\
+你认识哪些同学吗？\
+明天下午我没有课\
+我们看不懂\
+我没有准备\
 他是我的中文课的同学。
 
 ## 4.8 - Family 3
-像... 一样 = xiang4... yi2 yang4 = like... same
-像 = xiang4 = like/ the same as
-爷爷 = ye2 ye5 = grandpa/ father’s father
-㚫奶 = nai3 nai5 = grandma/ father’s mother
-阿姨 = a1 yi2 = aunt/ woman same age as parents
-阿 = a1 = used before one syllable names, kinship terms, to indicate family, etc.
-父母 = fu4 mu3 = parents
-叔叔 = shu1 shu5 = uncle/father’s younger brother
-关系 = guan1 xi4 = relationship
-兄弟姐妹 = xiong1 di4 jie3 mei4 = siblings
-亲戚 = qin1 qi5 = relative
-—-
-我哥哥的眼睛像我们爸爸的一样 = My older brother's eyes are like our father's
-今天的天气像昨天的一样
-他的中文像你的一样好
-奶奶这个周末来了我们家
-我跟我朋友的关系很好 = I have a good relationship with my friend
-昨天我和我阿姨一起吃晚饭
-我阿姨星期六睌上会去美国
-我奶奶每天看报纸
-我跟他的关系现在不太好
-你有没有兄弟姐妹
-你和你父母的关系怎么样
-我们亲戚都住在加拿大
-我弟弟像妈妈一样，喜欢穿黄衣服
+像... 一样 = xiang4... yi2 yang4 = like... same\
+像 = xiang4 = like/ the same as\
+爷爷 = ye2 ye5 = grandpa/ father’s father\
+㚫奶 = nai3 nai5 = grandma/ father’s mother\
+阿姨 = a1 yi2 = aunt/ woman same age as parents\
+阿 = a1 = used before one syllable names, kinship terms, to indicate family, etc.\
+父母 = fu4 mu3 = parents\
+叔叔 = shu1 shu5 = uncle/father’s younger brother\
+关系 = guan1 xi4 = relationship\
+兄弟姐妹 = xiong1 di4 jie3 mei4 = siblings\
+亲戚 = qin1 qi5 = relative\
+—-\
+我哥哥的眼睛像我们爸爸的一样 = My older brother's eyes are like our father's\
+今天的天气像昨天的一样\
+他的中文像你的一样好\
+奶奶这个周末来了我们家\
+我跟我朋友的关系很好 = I have a good relationship with my friend\
+昨天我和我阿姨一起吃晚饭\
+我阿姨星期六睌上会去美国\
+我奶奶每天看报纸\
+我跟他的关系现在不太好\
+你有没有兄弟姐妹\
+你和你父母的关系怎么样\
+我们亲戚都住在加拿大\
+我弟弟像妈妈一样，喜欢穿黄衣服\
 你有几个兄弟姐妹？
 
 ## 4.9 - Gourmet 1
-点心 = dian3 xin1 = dim sum
-小笼包 = xiao3 long2 bao1 = soup dumplings/ steamed pork dumplings
-油条 = you2 tiao2 = deep fried dough sticks
-豆浆 = dou4 jiang1 = soy milk
-拉面 = la1 mian4 = ramen/ pulled noodles
-粥 = zhou1 = congee/ porridge
-火锅 = huo3 guo1 = hot pot
-炒饭 = chao3 fan4 = fried rice
-—-
-泠 = ling2 = surname Ling/ sound of water flowing
-—-
-哪家上海饭馆的小笼包最好吃
-你知道西班牙菜里也有油条吗？
-火锅里有肉，菜和鱼 = There are meat, vegetables, and fish in the hotpot
-那里的牛肉拉面最好吃。
-香港的点心好吃吗？
-我不可以喝牛奶，但是可以喝豆浆
-你吃过油条吗？
-他们没有吃过油条
-豆浆真的健康吗？
-你早上喜欢吃粥吗？
-这碗粥太热了
-这个包子里有什么？
-你们一定要试试这里的炒饭
-包子很热，我等一会儿吃
-天气很冷，我们想吃火锅
-你喜欢吃中国拉面还是日本拉面。
-我想试试这里的豆浆
+点心 = dian3 xin1 = dim sum\
+小笼包 = xiao3 long2 bao1 = soup dumplings/ steamed pork dumplings\
+油条 = you2 tiao2 = deep fried dough sticks\
+豆浆 = dou4 jiang1 = soy milk\
+拉面 = la1 mian4 = ramen/ pulled noodles\
+粥 = zhou1 = congee/ porridge\
+火锅 = huo3 guo1 = hot pot\
+炒饭 = chao3 fan4 = fried rice\
+—-\
+泠 = ling2 = surname Ling/ sound of water flowing\
+—-\
+哪家上海饭馆的小笼包最好吃\
+你知道西班牙菜里也有油条吗？\
+火锅里有肉，菜和鱼 = There are meat, vegetables, and fish in the hotpot\
+那里的牛肉拉面最好吃。\
+香港的点心好吃吗？\
+我不可以喝牛奶，但是可以喝豆浆\
+你吃过油条吗？\
+他们没有吃过油条\
+豆浆真的健康吗？\
+你早上喜欢吃粥吗？\
+这碗粥太热了\
+这个包子里有什么？\
+你们一定要试试这里的炒饭\
+包子很热，我等一会儿吃\
+天气很冷，我们想吃火锅\
+你喜欢吃中国拉面还是日本拉面。\
+我想试试这里的豆浆\
 
 ## 4.10 - Time 4
-是... 的 = it was... that = 
-前天 = qian2 tian1 = the day before yesterday
-后天 = hou4 tian1 = the day after tomorrow
-春天 = chun1 tian1 = spring
-夏天 = xia4 tian1 = summer
-秋天 = qiu1 tian1 = fall
-冬天 = dong1 tian1 = winter
-季节 = ji4 jie2 = season {gwai jit}
-越来越 = yue4 lai2 yue4 = more and more {yuut lei yuut}
-澳大利亚 = ao4 da4 li4 ya4 = Australia
-大概 = da4 gai4 = probably {daai koi}
-堵车 = du3 che1 = traffic jam {dou2 che1}
-准时 = punctual
-刚 = gang1 = just {gong1}
-—-
-禾 = he2 = cereal/ grain {wor}
-成 = cheng2 = to succeed/finish {sing}
-成功 = cheng2 gong1 = to succeed {sing gong}
-戊 = wu4 = fifth in order {mou}
-城市 = cheng2 shi4 = city
-能夠 = neng2 gou4 = be capable of {nang gau}
-—
-我们是三天前到的 = It was three days ago that we arrived
-你是上个月走的吗？= Was it last month that you left
-这里的夏天有多热？= How hot are the summers here
-他两个星期后会去日本 = He will go to Japan in two weeks
-他们刚走 = They just left
-他刚吃饭了
-我们今天刚到
-她大概会准时到 = She will probably arrive on time
-他们是去年春天去伦敦的 = It was spring last year that they went to London
-她是一年前去北京的 = It was one year ago that she went to Beijing
-他想一年后买冰箱
-后天你会做什么？
-你去过澳大利並吗
-前天是星期天
-你的英语越来越好
-后天我们的公司有派对，你能参加吗
-明天大概会下雪
-因为堵车，我不能上班
-我喜欢淮时的人
-现在越来越冷，冬天来了
-哪个季节去台湾最好 （台湾 describes the main subject 季节 so it comes right after)
-秋天不冷也不热。
+是... 的 = it was... that = \
+前天 = qian2 tian1 = the day before yesterday\
+后天 = hou4 tian1 = the day after tomorrow\
+春天 = chun1 tian1 = spring\
+夏天 = xia4 tian1 = summer\
+秋天 = qiu1 tian1 = fall\
+冬天 = dong1 tian1 = winter\
+季节 = ji4 jie2 = season {gwai jit}\
+越来越 = yue4 lai2 yue4 = more and more {yuut lei yuut}\
+澳大利亚 = ao4 da4 li4 ya4 = Australia\
+大概 = da4 gai4 = probably {daai koi}\
+堵车 = du3 che1 = traffic jam {dou2 che1}\
+准时 = punctual\
+刚 = gang1 = just {gong1}\
+—-\
+禾 = he2 = cereal/ grain {wor}\
+成 = cheng2 = to succeed/finish {sing}\
+成功 = cheng2 gong1 = to succeed {sing gong}\
+戊 = wu4 = fifth in order {mou}\
+城市 = cheng2 shi4 = city\
+能夠 = neng2 gou4 = be capable of {nang gau}\
+—\
+我们是三天前到的 = It was three days ago that we arrived\
+你是上个月走的吗？= Was it last month that you left\
+这里的夏天有多热？= How hot are the summers here\
+他两个星期后会去日本 = He will go to Japan in two weeks\
+他们刚走 = They just left\
+他刚吃饭了\
+我们今天刚到\
+她大概会准时到 = She will probably arrive on time\
+他们是去年春天去伦敦的 = It was spring last year that they went to London\
+她是一年前去北京的 = It was one year ago that she went to Beijing\
+他想一年后买冰箱\
+后天你会做什么？\
+你去过澳大利並吗\
+前天是星期天\
+你的英语越来越好\
+后天我们的公司有派对，你能参加吗\
+明天大概会下雪\
+因为堵车，我不能上班\
+我喜欢淮时的人\
+现在越来越冷，冬天来了\
+哪个季节去台湾最好 （台湾 describes the main subject 季节 so it comes right after)\
+秋天不冷也不热。\
 
 ## 4.11 - Location 5
-附近 = fu4 jin4 = nearby/ viscinity
-在...中间 = between
-中间 = zhong1 jian1 = in between
-图书馆 = tu2 shu1 guan3 = library
-上面 = shang4 mian4 = on/ above
-下面 = xia4 mian4 = under/ below
-城市 = cheng2 shi4 = city
-—-
-超市 = chao1 shi4 = supermarket
-帅 = shuai4 = handsome
-站 = zhan4 = station/ stand {jaam}
-—-
-每天他在家附近的公园跑步 = He runs every day in the park near his house
-老师住在城市里
-公园在他们的学校附近
-上海是一个大城市
-今天晚上在一样的地方见 = I will see you at the same place tonight
-我坐在爸爸和妈妈中间
-这个地方有太多人。
-站在你们中间的人是谁
-什么在桌子下面
-今天下午我会在图书馆，准备考试。
+附近 = fu4 jin4 = nearby/ viscinity\
+在...中间 = between\
+中间 = zhong1 jian1 = in between\
+图书馆 = tu2 shu1 guan3 = library\
+上面 = shang4 mian4 = on/ above\
+下面 = xia4 mian4 = under/ below\
+城市 = cheng2 shi4 = city\
+—-\
+超市 = chao1 shi4 = supermarket\
+帅 = shuai4 = handsome\
+站 = zhan4 = station/ stand {jaam}\
+—-\
+每天他在家附近的公园跑步 = He runs every day in the park near his house\
+老师住在城市里\
+公园在他们的学校附近\
+上海是一个大城市\
+今天晚上在一样的地方见 = I will see you at the same place tonight\
+我坐在爸爸和妈妈中间\
+这个地方有太多人。\
+站在你们中间的人是谁\
+什么在桌子下面\
+今天下午我会在图书馆，准备考试。\
 
 ## 4.12 - Shopping 4
 元 = yuan = 1 yuan (formal)
