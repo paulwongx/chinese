@@ -1,5 +1,7 @@
 # Chinese Notes
 
+The following notes are from Duolingo Lessons
+
 ## 0.0 Greeting 1
 
 ## 0.1 Numbers
