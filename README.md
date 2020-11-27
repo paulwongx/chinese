@@ -1,5 +1,225 @@
 # Chinese Notes
 
+## Chinese Radicals
+
+|RADICAL|ENGLISH|PINYIN|EXAMPLE CHAR.
+|---|---|---|---|
+|丨|line|shù; gǔn|个 (gè) — measure word for people or objects in general
+|丶|dot|zhǔ; diǎn|门 (mén) — door
+|丿<br/><br/> Variant: 乀 乁 |slash|piě|人 (rén) — person
+|乙 <br/><br/> Variant: 乚 乛|second|yǐ|吃 (chī) — to eat
+|亅|hook|jué; gōu|可 (kě) — may; can; -able
+|二|two|èr|仁 (rén) — benevolence
+|亠|lid|tóu|高 (gāo) — high; tall
+|人 <br/><br/> ariant: 亻|person|rén|坐 (zuò) — to sit
+|儿|son; child|ér|兄 (xiōng) — older brother
+|入|enter|rù|内 (nèi) — inner
+|八 <br/><br/> Variant: 丷|eight|bā|公 (gōng) — fairness
+|冂|wide|jiǒng|用 (yòng) — to use
+|冖|cover|mì|写 (xiě) — to write
+|冫|ice|bīng|冷 (léng) — cold
+|几|small table; several|jī, jǐ|风 (fēng) — wind
+|凵|receptacle|qiǎn; kǎn|出 (chū) — to go out
+|刀 <br/><br/> Variant: 刂|knife|dāo|到 (dào) — to arrive
+|力|power|lì|男 (nán) — man; male
+|勹|wrap|bāo|包 (bāo) — package
+|匕|ladle|bǐ; pìn|它 (tā) — it, as a third person pronoun
+|匚|box|fāng|区 (qū) — area
+|匸|conceal|xì|忙 (máng) — busy
+|十|ten|shí|早 (zǎo) — early
+|卜|divination|bǔ|下 (xià) — under; down; next
+|卩|seal|jié|命 (mìng) — life
+|厂|cliff|hàn|厅 (tīng) — hall; room
+|厶|private|sī|去 (qù) — to go
+|又|again|yòu|友 (yǒu) — friend
+|口|mouth|kǒu|口 (jiào) — to shout
+|囗|enclosure|wéi|国 (guó) — country; nation
+|土|earth|tǔ|走 (zǒu) — to walk
+|士|scholar|shì|喜 (xǐ — to like
+|夂|go|zhī|路 (lù) — road
+|夊|go slowly|suī|夏 (xià) — summer
+|夕|night|xī|多 (duō) — many
+|大|big|dà|天 (tiān) — sky; heaven; celestial
+|女|woman|nǚ|安 (ān) — peace
+|子|child|zǐ|学 (xué) — to study; to learn
+|宀|roof|gài|家 (jiā) — home; family
+|寸|inch|cùn|对 (duì) — correct
+|小|small|xiǎo|原 (yuán) — origin
+|尢 <br/><br/> Variant: 尣|lame|wāng|无 (wú) — negative; no; not
+|尸|corpse|shī|尾 (wěi) — tail
+|屮|sprout|chè|纯 (chún) — pure; clean; simple
+|山|mountain|shān|岁 (suì) — year; age; harvest
+|川 <br/><br/> Variant: 巛 巜|river|chuān|训 (xùn) — to train; to teach
+|工|work|gōng|红 (hóng) — red
+|己|oneself|jǐ|起 (qǐ) — to rise; to stand up
+|巾|towel|jīn|帮 (bāng) — to help
+|干|dry|gān|平 (píng) — level; peaceful
+|幺|thread|yāo|系 (xì) — line; link; connection
+|广|wide|guǎng|床 (chuáng) — bed
+|廴|stride|yǐn|建 (jiàn) — to build
+|廾|hands joined|gǒng|开 (kāi) — to open; to start
+|弋|shoot with a bow|yì|代 (dài) — generation
+|弓|bow|gōng|引 (yǐn) — to attract; to pull
+|彐 <br/><br/> Variant: 彑|snout|jì|很 (hén) — very
+|彡|hair; bristle|shān|影 (yǐng) — shadow; image; photograph
+|彳|step|chì|行 (xíng) — to go; to walk; okay
+|心 <br/><br/> Variant: 忄|heart|xīn|态 (tài) — attitude
+|戈|spear|gē|我 (wǒ) — I; me
+|户|door|hù|护 (hù) — to protect
+|手 <br/><br/> Variant: 扌|hand|shǒu|打 (dǎ) — to hit
+|支|branch|zhī|枝 (zhī) — branch; limb
+|攴 <br/><br/> Variant: 攵|tap|pū|敲 (qiāo) — to strike; to beat; to pound
+|文|script|wén|蚊 (wén) — mosquito
+|斗|peck (unit of measurement)|dǒu|科 (kè) — science
+|斤|axe|jīn|听 (tīng) — to hear
+|方|square|fāng|房 (fáng) — house
+|无|not|wú|芜 (wú) — luxuriant growth of weeds
+|日|sun|rì|易 (yì) — easy
+|曰|say|yuē|更 (gèng) — even more
+|月|moon|yuè|期 (qī) — time period
+|木|tree|mù|种 (zhǒng) — seed; type
+|欠|lack; be deficient|qiàn|欢 (huān) — happy; pleased
+|止|stop|zhǐ|步 (bù) — step
+|歹|wicked|dǎi|死 (sǐ) — death
+|殳|weapon|shū|没 (méi) — not; have not
+|母 <br/><br/> Variant: 毋|mother|mǔ|每 (měi) — each
+|比|compare|bǐ|批 (pī) — to criticize
+|毛|fur|máo|笔 (bǐ) — writing brush; pen
+|氏|clan|shì|纸 (zhǐ) — paper
+|气|steam|qì|氧 (yǎng) — oxygen
+|水 <br/><br/> Variant: 氵|water|shuǐ|冰 (bīng) — ice; ice-cold
+|火 <br/><br/> Variant: 灬|fire|huǒ|灯 (dēng) — lamp; lantern
+|爪 <br/><br/> Variant: 爫|claw|zhǎo|抓 (zhuā) — to clutch; to grab
+|父|father|fù|爸 (bà) — father; papa
+|爻|lines on a trigram|yáo|爽 (shuǎng) — refreshing
+|爿|half of a tree trunk|qiáng|装 (zhuāng) — to dress up
+|片|slice|piàn|版 (bǎn) — edition; version
+|牙|tooth|yá|邪 (xié) — evil
+|牛 <br/><br/> Variant: 牜|cow|niú|特 (tè) — special; unique
+|犭 <br/><br/> Variant: 犬|dog|quǎn|犯 (fàn) — to commit a crime
+|玄|profound|xuán|畜 (chù) — livestock
+|玉 <br/><br/> Variant: 王|jade|yù|宝 (bǎo) — treasure; valuable; precious
+|瓜|melon|guā|狐 (hú) — fox
+|瓦|tile; baked clay|wǎ|瓶 (píng) — bottle
+|甘|sweet|gān|甜 (tián) — sweet
+|生|life|shēng|星 (xīng) — star; planet
+|用|use|yòng|通 (tōng) — pass through; to communicate
+|田|field|tián|果 (guǒ) — fruit
+|疋|cloth|pǐ|楚 (chǔ) — clear; distinct
+|疒|ill|bìng|疗 (liáo) — cured; healed; recovered
+|癶|legs|bō|登 (dēng) — to rise; to ascend
+|白|white|bái|怕 (pà) — to fear
+|皮|skin|pí|玻 (bō) — glass
+|皿|dish|mǐn|盘 (pán) — plate; tray
+|目|eye|mù|眼 (yǎn) — eye
+|矛|spear|máo|柔 (róu) — soft
+|矢|arrow|shǐ|知 (zhī) — to know
+|石|stone|shí|确 (què) — certain; sure
+|示 <br/><br/> Variant: 礻|spirit|shì|标 (biāo) — mark; symbol
+|禸|track|róu|遇 (yù) — come across
+|禾|grain|hé|香 (xiāng) — fragrant
+|穴|cave|xuè|空 (kōng) — hollow; empty
+|立|stand|lì|位 (wèi) — position; rank
+|竹|bamboo|zhú|笔 (bǐ) — writing brush; pen
+|米|rice|mǐ|数 (shù) — to count
+|纟 <br/><br/> Traditional: 糸|silk|sī|给 (gěi) — to give
+|缶|jar|fǒu|淘 (táo) — to weed out
+|网 <br/><br/> Variant: 罒|net|wǎng|罪 (zuì) — crime
+|羊|sheep|yáng|样 (yàng) — style; pattern
+|羽|feather|yǔ|翻 (fān) — to flip over
+|老|old|lǎo|姥 (lǎo) — maternal grandmother
+|而|and|ér|需 (xū) — to need
+|耒|plow|lěi|耕 (gēng) — to cultivate
+|耳|ear|ěr|联 (lián) — to connect
+|聿|brush|yù|建 (jiàn) — to build
+|肉|meat|ròu|腐 (fǔ) — to rot
+|臣|minister|chén|藏 (cáng) — to hide
+|自|oneself|zì|息 (xi) — to rest
+|至|arrive|zhì|到 (dào) — to arrive
+|臼|mortar|jiù|插 (chā) — to plug in
+|舌|tongue|shé|话 (huà) — to speak
+|舛|contrary|chuǎn|舞 (wǔ) — to dance
+|舟|boat|zhōu|搬 (bān) — to move
+|艮|mountain|gèn|很 (hén) — very
+|色|color|sè|绝 (jué) — to cut off
+|艹|grass|cǎo|花 (huā) — flower
+|虍|tiger|hǔ|虑 (lü) — anxiety
+|虫|insect|chóng|虽 (suī) — although
+|血|blood|xuě|恤 (xù) — to show pity
+|行|walk|xíng|街 (jiē) — street
+|衣 <br/><br/> Variant: 衤|clothes|yī|依 (yī) — to rely on
+|西 <br/><br/> Variant: 覀|west|xī|要 (yào) — to want
+|见 <br/><br/> Traditional: 見|see|jiàn|现 (xiàn) — to become visible
+|角|horn|jiǎo|确 (què) — certain; sure
+|讠 <br/><br/> Traditional: 言|speech|yán|话 (huà) — to speak
+|谷|valley|gǔ|容 (róng) — appearance
+|豆|bean|dòu|短 (duǎn) — short
+|豕|pig|shǐ|家 (jiā) — home; family
+|豸|legless insects|zhì|貌 (mào) — countenance
+|贝 <br/><br/> Traditional: 貝|shell|bèi|员 (yuán) — worker; staff member
+|赤|red|chì|赫 (hè) — bright
+|走|walk|zǒu|起 (qǐ) — to rise; to stand up
+|足|foot|zú|促 (cù) — to urge
+|身|body|shēn|谢 (xiè) — to thank
+|车 <br/><br/> Traditional: 車|cart|chē|较 (jiào) — to compare
+|辛|bitter|xīn|辩 (biàn) — to debate
+|辰|morning|chén|晨 (chén) — daybreak
+|辶|walk|chuò|这 (zhè) — this
+|邑 <br/><br/> Variant: 阝|city|yì|唈 (yì) — to sob
+|酉|wine|yǒu|配 (pèi) — to mix; to be suited for
+|釆|distinguish|biàn|翻 (fān) — to flip over
+|里|village|lǐ|理 (li) — logic; truth
+|钅 <br/><br/> Variant: 金|metal|jīn|钱 (qián) — money
+|长 <br/><br/> Traditional: 長|long|cháng|账 (zhàng) — account
+|门 <br/><br/> Traditional: 門|gate|mén|问 (wèn) — to ask about
+|阜 <br/><br/> Variant: 阝|mound|fù|埠 (bù) — port city
+|隶|slave|lì|康 (kāng) — health
+|隹|short-tailed bird|zhuī|谁 (shéi) — who, question form
+|雨|rain|yǔ|需 (xū) — to need
+|青|blue|qīng|请 (qíng) — please
+|非|wrong|fēi|罪 (zuì) — crime
+|面|face|miàn|缅 (miǎn) — distant
+|革|leather|gé|鞋 (xié) — shoe
+|韦 <br/><br/> Traditional: 韋|soft leather|wěi|伟 (wěi) — extraordinary
+|韭|leek|jiǔ|韮 (jiǔ) — scallion
+|音|sound|yīn|意 (yī) — thought
+|页 <br/><br/> Traditional: 頁|page|yè|题 (tí) — headline
+|风 <br/><br/> Traditional: 風|wind|fēng|疯 (fēng) — crazy
+|飞 <br/><br/> Traditional: 飛|fly|fēi|*
+|饣 <br/><br/> Variant: 飠 食|eat|shí|饿 (è) — hungry
+|首|head|shǒu|道 (dào) — path
+|香|fragrant|xiāng|馥 (fù) — scent
+|马 <br/><br/> Traditional: 馬|horse|mǎ|妈 (mā) — mother
+|骨|bone|gǔ|滑 (huá) — to slip
+|高|high|gāo|搞 (gǎo) — to clarify
+|髟|long hair|biāo|髦 (máo) — bangs
+|鬥|fight|dòu|*
+|鬯|sacrificial wine|chàng|*
+|鬲|cauldron|lì|隔 (gé) — partition
+|鬼|ghost|guǐ|魔 (mó) — devil
+|鱼 <br/><br/> Traditional: 魚|fish|yú|鲜 (xiān) — fresh
+|鸟 <br/><br/> Traditional: 鳥|bird|niǎo|鸡 (jī) — chicken
+|卤|salty|lǔ|鹾 (cuó) — salty
+|鹿|deer|lù|漉 (lù) — to filter
+|麦 <br/><br/> Traditional: 麥|wheat|mài|麸 (fū) — bran
+|麻|hemp|má|磨 (mó) — to polish
+|黄|yellow|huáng|璜 (huáng) — a semicircular jade pendant
+|黍|millet|shǔ|*
+|黑|black|hēi|墨 (mò) — ink
+|黹|embroidery|zhǐ|*
+|黾 <br/><br/> Traditional: 黽|frog|mǐn|绳 (shéng) — rope
+|鼎|tripod|dǐng|*
+|鼓|drum|gǔ|瞽 (gǔ) — blind
+|鼠|rat|shǔ|癙 (shǔ) — illness caused by worry
+|鼻|nose|bí|鼾 (hān) — to snore loudly
+|齐 <br/><br/> Traditional: 齊|even|qí|挤 (jǐ) —to squeeze out
+|齿 <br/><br/> Traditional: 齒|tooth|chǐ|龄 (líng) — age; duration of time
+|龙 <br/><br/> Traditional: 龍|dragon|lóng|笼 (lóng) — cage; coop
+|龟 <br/><br/> Traditional: 龜|turtle|guī|阄 (jiū) — to cast by lots
+|龠|flute|yuè|瀹 (yuè) — to boil
+
+
+
 The following notes are from Duolingo Lessons
 
 ## 0.0 Greeting 1
